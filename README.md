@@ -7,4 +7,5 @@ http://java.boot.by/ibm-317/ch02.html
 ./installc -acceptLicense
 ./imcl -c
 https://www-01.ibm.com/support/docview.wss?uid=swg24044479
+https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.installation.nd.doc/ae/tins_creating_cust_reps.html
 
